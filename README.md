@@ -75,5 +75,5 @@ ipl-analytics-dashboard/
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Robin2906-ai">Aryan</a>
+  Built with ❤️ by <a href="https://github.com/Robin2906-ai">Robin</a>
 </p>
