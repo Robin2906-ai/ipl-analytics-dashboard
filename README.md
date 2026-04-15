@@ -55,10 +55,10 @@ ipl-analytics-dashboard/
 
 ## 🛠️ Tech Stack
 
-- **Python** — core language
-- **Pandas** — data cleaning, aggregation, feature engineering
-- **Plotly** — interactive visualizations (bar, scatter, treemap, pie)
-- **Streamlit** — web app framework with sidebar filters and tabs
+- **Python** - core language
+- **Pandas** - data cleaning, aggregation, feature engineering
+- **Plotly** - interactive visualizations (bar, scatter, treemap, pie)
+- **Streamlit** - web app framework with sidebar filters and tabs
 
 ## 📈 Data Source
 
